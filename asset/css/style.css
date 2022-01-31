@@ -39,10 +39,28 @@ ul {
 .light-blue {
   color: #4bbaea;
 }
+
+.blue {
+  background-color: #20a9e5;
+  color: #ffffff;
+}
+
+.bg-light-blue {
+  background-color: #b1e5f2;
+}
+
 .author {
   font-size: 0.7rem;
 }
 
 .important {
   background-color: #ffff00;
+}
+
+td {
+  padding: 20px;
+}
+
+.w-40 {
+  width: 50%;
 }
