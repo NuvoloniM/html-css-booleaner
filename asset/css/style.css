@@ -64,3 +64,22 @@ td {
 .w-40 {
   width: 50%;
 }
+
+.foto-container-1 {
+  width: 25%;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+  margin-bottom: 20px;
+}
+
+.foto-container-2 {
+  width: 25%;
+  height: 200px;
+  background-image: url(../img/graph.jpg);
+}
+
+.foto-text {
+  font-size: 1.5rem;
+  color: #ffffff;
+  padding: 20px 10px;
+}
