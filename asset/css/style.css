@@ -5,6 +5,14 @@
   box-sizing: border-box;
 }
 
+p {
+  margin: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
 #main-head {
   width: 100%;
   height: 150px;
@@ -14,7 +22,7 @@
 }
 
 .logo {
-  width: 15%;
+  width: 25%;
   height: 100px;
   background-image: url(../img/logo.svg);
   background-repeat: no-repeat;
@@ -33,4 +41,8 @@
 }
 .author {
   font-size: 0.7rem;
+}
+
+.important {
+  background-color: #ffff00;
 }
